@@ -34,7 +34,7 @@
               on Org.JSON classes. This lib comes with any Android SDK built in -->
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20090211</version>
+            <version>20231013</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
@@ -102,8 +102,8 @@
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
             <!-- task 12487 : android SDK can work only with our special Http client
-              4.1.2 need to explore that. -->
-            <version>4.1.2</version>
+              4.5.13 need to explore that. -->
+            <version>4.5.13</version>
         </dependency>
 
         <dependency>
